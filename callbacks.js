@@ -97,8 +97,6 @@ construir(muroObject,(error,muroConstruido)=>{
 //undefined => false
 //0 => false
 
-
-
 //valores que evaluan a true cuando hacemos preguntas logicas sobre ellos
 
 //excepciones de vacios
